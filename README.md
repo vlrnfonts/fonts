@@ -4,9 +4,17 @@ This font is suitable for graphic projects, logos and branding.
 You can use this typeface for all personal and commercial works. Remember to credit the original designer when publishing your work featuring vlrnfonts.
 ![CosmioLinear_01](https://github.com/vlrnfonts/fonts/assets/160312338/83544f97-2d77-4fb4-b727-ab86f7ac274c)
 ![CosmioLinear_02](https://github.com/vlrnfonts/fonts/assets/160312338/f0a650a9-746d-4d3f-9a83-84d32ee2806f)
+## Glyphset:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,:;!?*#/\(){}[]-_&©|¢$€£¥+-=><
 
-# Author:
-vlrnfonts
-Mail:vlrnfonts@gmail.com
+## Author:
+Valeriano (vlrnfonts@gmail.com)
 
-# License:
+## Copyright:
+(c) 2024, vlrnfonts, (https://github.com/vlrnfonts/cosmio) with Reserved Font Names "Cosmio"
+
+## License:
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
+https://openfontlicense.org
+
+## [Download]()
