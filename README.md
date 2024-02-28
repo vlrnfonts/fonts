@@ -1,6 +1,6 @@
 # fonts
 
-Cosmio is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding. You can use this typeface for all personal and commercial works.
+Cosmio is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
 ![CosmioLT_1260x840](https://github.com/vlrnfonts/fonts/assets/160312338/8eed4009-050f-447e-850c-7969402a1c12)
 
