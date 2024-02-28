@@ -6,9 +6,9 @@ Cosmio is a geometric and minimalistic fonts constructed with a few geometric sh
 
 ![CosmioLT_1260x840 1](https://github.com/vlrnfonts/fonts/assets/160312338/ee61697b-1341-4721-9199-3f92ca238449)
 
-#Author:
+# Author:
 Valeriano (vlrnfonts) vlrnfonts@gmail.com
 
-#License: 
+# License: 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
