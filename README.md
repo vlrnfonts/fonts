@@ -19,4 +19,4 @@ Valeriano (vlrnfonts@gmail.com)
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
 
-## [Download](COSMIO-Regular.otf)
+## [Download](https://github.com/vlrnfonts/fonts/blob/main/cosmio/COSMIO-Regular.otf)
