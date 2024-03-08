@@ -1,10 +1,10 @@
-## Cosmio Font
+## Skate Blade
 
-Cosmio is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
+Skate Blade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
-![CosmioLT_1260x840](https://github.com/vlrnfonts/fonts/assets/160312338/8eed4009-050f-447e-850c-7969402a1c12)
+![Skate_Blade_01](https://github.com/vlrnfonts/fonts/assets/160312338/19b15e74-c1de-4c53-accb-8f746e408f77)
 
-![CosmioLT_1260x840 1](https://github.com/vlrnfonts/fonts/assets/160312338/ee61697b-1341-4721-9199-3f92ca238449)
+![Skate_Blade_02](https://github.com/vlrnfonts/fonts/assets/160312338/f6dd7134-e743-48ac-9b79-3565677549b8)
 
 ## Glyphset:
 ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&© .:,;!?*#/\(){}[]-_&©|+-=><
@@ -13,10 +13,10 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&© .:,;!?*#/\(){}[]-_&©|+-=><
 Valeriano (vlrnfonts@gmail.com)
 
 ## Copyright:
-(c) 2024, vlrnfonts, (https://github.com/vlrnfonts/cosmio) with Reserved Font Names "Cosmio"
+(c) 2024, vlrnfonts, (https://github.com/vlrnfonts/fonts) with Reserved Font Names "Skate Blade"
 
 ## License:
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
 
-## [Download](https://github.com/vlrnfonts/fonts/blob/main/cosmio/COSMIO-Regular.otf)
+## []
