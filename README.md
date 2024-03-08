@@ -1,6 +1,6 @@
-## Skate Blade
+## SkateBlade
 
-Skate Blade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
+SkateBlade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
 ![Skate_Blade_01](https://github.com/vlrnfonts/fonts/assets/160312338/19b15e74-c1de-4c53-accb-8f746e408f77)
 
@@ -13,7 +13,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&© .:,;!?*#/\(){}[]-_&©|+-=><
 Valeriano (vlrnfonts@gmail.com)
 
 ## Copyright:
-(c) 2024, vlrnfonts, (https://github.com/vlrnfonts/fonts) with Reserved Font Names "Skate Blade"
+(c) 2024, vlrnfonts, with Reserved Font Names "SkateBlade"
 
 ## License:
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
