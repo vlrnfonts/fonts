@@ -1,4 +1,4 @@
-## SkateBlade
+## SkateBlade Project
 
 SkateBlade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
