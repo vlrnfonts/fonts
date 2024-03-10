@@ -2,7 +2,7 @@
 
 SkateBlade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
-![Skate_Blade_01a](https://github.com/vlrnfonts/fonts/assets/160312338/40c284a3-26d7-4861-8fec-e3ca88f393ac)
+![Skate_Blade_01b](https://github.com/vlrnfonts/fonts/assets/160312338/c82f8229-18d1-4314-b10b-a76b06365a0f)
 
 
 ![Skate_Blade_02a](https://github.com/vlrnfonts/fonts/assets/160312338/9027d555-b74f-4e73-97a4-0e552ac5e210)
