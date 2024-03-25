@@ -10,9 +10,6 @@ SkateBlade is a geometric and minimalistic fonts constructed with a few geometri
 ## Glyphset:
 ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789&© .:,;!?*#/\(){}[]-_&©|+-=><
 
-## Author:
-Valeriano (vlrnfonts@gmail.com)
-
 ## Copyright:
 (c) 2024, vlrnfonts, with Reserved Font Names "SkateBlade"
 
