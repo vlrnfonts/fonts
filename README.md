@@ -1,5 +1,6 @@
 
-**This version is no longer valid as it is outdated. If you are interested in this updated font and other typefaces, you can visit the page** https://github.com/silverblur.
+**This version is no longer valid as it is outdated.
+If you are interested in this updated font and other typefaces, you can visit the page:** https://github.com/silverblur.
 
 ## SkateBlade Typeface
 
