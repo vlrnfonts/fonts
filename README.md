@@ -1,3 +1,6 @@
+
+__ This version is no longer valid as it is outdated. If you are interested in this updated font and other typefaces, you can visit the page __ https://github.com/silverblur.
+
 ## SkateBlade Typeface
 
 SkateBlade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
